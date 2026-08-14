@@ -1,0 +1,6 @@
+id=android-gaming-performance-engine
+name=Android Gaming Performance Engine
+version=v1.0.0
+versionCode=100
+author=bedul
+description=Automated systemless performance engine for low latency gaming, 2MB UFS read-ahead, VFS cache tuning, and TCP FQ pacing.
