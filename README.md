@@ -4,7 +4,7 @@ Systemless performance optimization engine for Android devices, tuned for low la
 
 ---
 
-## ⚡ Key Optimizations in v1.1.0
+## Key Optimizations in v1.1.0
 
 - **VFS Cache Pressure Tuning**: `vm.vfs_cache_pressure = 50` (Holds game assets and textures longer in RAM).
 - **Storage Read-Ahead & Queue Depth**: Increases UFS storage read-ahead buffer to **2048 KB (2MB)** and sets `nr_requests = 128`.
@@ -13,7 +13,7 @@ Systemless performance optimization engine for Android devices, tuned for low la
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Download `Android_System_Performance_Engine_v1.1.0.zip` from [Releases](https://github.com/beduldul/android-system-performance-engine/releases).
 2. Install via **Magisk / KernelSU / APatch**.
@@ -21,5 +21,5 @@ Systemless performance optimization engine for Android devices, tuned for low la
 
 ---
 
-## 📄 License
+## License
 GPL-3.0 License
