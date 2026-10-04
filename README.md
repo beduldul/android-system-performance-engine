@@ -1,3 +1,4 @@
+[![shellcheck](https://github.com/beduldul/android-system-performance-engine/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/beduldul/android-system-performance-engine/actions/workflows/shellcheck.yml)
 # Universal Android System Performance Engine v1.1.0
 
 Systemless performance optimization engine for Android devices, tuned for low latency, zero frame-drop, and high storage read-ahead throughput.
