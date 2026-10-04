@@ -1,8 +1,6 @@
 #!/sbin/sh
 umask 022
-OIFS=$IFS; IFS=\|
 ZIPFILE=$2
-ZIPDIR=$(dirname "$ZIPFILE")
 MODPATH=/data/adb/modules/android-gaming-performance-engine
 mkdir -p $MODPATH
 unzip -o "$ZIPFILE" -d $MODPATH
