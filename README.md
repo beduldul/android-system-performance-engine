@@ -22,4 +22,4 @@ Systemless performance optimization engine for Android devices, tuned for low la
 ---
 
 ## License
-GPL-3.0 License
+MIT License
